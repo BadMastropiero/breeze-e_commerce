@@ -1,0 +1,22 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`ProductCard > renders correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bdfCDU fhyPVj"
+    data-testid="styled-card"
+  >
+    <img
+      alt=""
+      class="sc-gsTDqH hjnnKk"
+      height="190"
+      loading="lazy"
+      src="https://picsum.photos/200/300"
+      width="190"
+    />
+    <h3
+      class="sc-dlfmHC iYLPpy"
+    />
+  </div>
+</DocumentFragment>
+`;
