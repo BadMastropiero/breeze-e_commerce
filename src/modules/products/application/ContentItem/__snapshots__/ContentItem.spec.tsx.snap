@@ -1,0 +1,16 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`ContentItem > renders correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bdfCDU cMszGt"
+    style="grid-row: 10;"
+  >
+    <p
+      data-testid="test-id"
+    >
+      test
+    </p>
+  </div>
+</DocumentFragment>
+`;
